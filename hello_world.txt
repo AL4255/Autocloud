@@ -1,1 +1,1 @@
-# this will be project that looks at building an llm focused os, will be diving deepering 
+
