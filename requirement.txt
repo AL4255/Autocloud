@@ -1,1 +1,5 @@
-
+# Core dependencies
+typer[all]>=0.12.5  # Fixed for Python 3.13 compatibility
+rich==13.7.0
+anthropic>=0.40.0  # Updated for Python 3.13 compatibility
+python-dotenv==1.0.0
