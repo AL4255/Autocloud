@@ -5,7 +5,7 @@
 AutoCloud takes your natural language requests and automatically generates, validates, and deploys production-ready infrastructure on Azure using Terraform and Claude AI.
 
 ## Features
-
+ 
 - **Natural Language to Infrastructure**: Describe what you need, AutoCloud handles the rest
 - **Intelligent Generation**: Uses Claude AI to generate production-ready Terraform code
 - **Self-Healing Validation**: Automatically fixes Terraform errors (up to 3 attempts)
