@@ -256,7 +256,7 @@ AutoCloud automatically retries validation up to 3 times. If it still fails:
 2. Review the Terraform files manually
 3. Try a more specific request
 
-## Security Considerations
+## Security Considerations 
 
 - API keys are never logged
 - Credentials stored in `~/.autocloud/` (ensure proper file permissions)
