@@ -308,7 +308,3 @@ MIT License - see LICENSE file for details
 - CLI built with [Typer](https://typer.tiangolo.com/) and [Rich](https://rich.readthedocs.io/)
 
    
-   
-
-
-
