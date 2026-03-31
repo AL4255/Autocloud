@@ -1,1 +1,7 @@
+# this will be were to ref how to build out resources, vm, subnets, iso, security gateway.
 
+
+
+
+
+#Terraform pre builds for llm 
