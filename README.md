@@ -5,7 +5,7 @@
 AutoCloud takes your natural language requests and automatically generates, validates, and deploys production-ready infrastructure on Azure using Terraform and Claude AI.
 
 ## Features
- 
+
 - **Natural Language to Infrastructure**: Describe what you need, AutoCloud handles the rest
 - **Intelligent Generation**: Uses Claude AI to generate production-ready Terraform code
 - **Self-Healing Validation**: Automatically fixes Terraform errors (up to 3 attempts)
@@ -256,7 +256,7 @@ AutoCloud automatically retries validation up to 3 times. If it still fails:
 2. Review the Terraform files manually
 3. Try a more specific request
 
-## Security Considerations 
+## Security Considerations
 
 - API keys are never logged
 - Credentials stored in `~/.autocloud/` (ensure proper file permissions)
@@ -306,5 +306,3 @@ MIT License - see LICENSE file for details
 - Built with [Anthropic Claude](https://www.anthropic.com/)
 - Powered by [Terraform](https://www.terraform.io/)
 - CLI built with [Typer](https://typer.tiangolo.com/) and [Rich](https://rich.readthedocs.io/)
-
-   

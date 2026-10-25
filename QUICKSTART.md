@@ -276,4 +276,3 @@ autocloud deploy "create a simple web server VM with Ubuntu"
 ```
 
 Happy deploying! 🚀
-
